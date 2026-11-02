@@ -1,6 +1,8 @@
-# YC application videos: who got in
+# YC application videos: accepted vs rejected
 
-Two lists of YC application videos on YouTube, with the outcome for each.
+557 Y Combinator application videos (founder videos) from YouTube, each labeled accepted or rejected, as CSV and JSON. Use them as YC application video examples, or point an AI agent at the files and ask what the accepted videos have in common, which mistakes the rejected ones share, or how to structure your own video for YC or another startup accelerator.
+
+Two lists, with the outcome for each.
 
 ## 1. YC Arena Partner Sim (102 videos, known answers)
 
