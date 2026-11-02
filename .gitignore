@@ -1,0 +1,5 @@
+out/
+media/
+__pycache__/
+*.srt
+*.mp4
